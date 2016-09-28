@@ -1,4 +1,5 @@
----variable-definition-------------------------------------------------------------------
+--gitChanged
+---variable-definition---------------------------------------------------------------------
 global TB_Maplist
 global DVOpenCloseUi
 global DVDefineUI
